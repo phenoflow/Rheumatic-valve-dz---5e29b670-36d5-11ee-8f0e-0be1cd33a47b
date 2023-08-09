@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/mitral-rheumatic-valve-dz---primary.py
+inputModule3:
+  class: File
+  path: python/rheumatic-valve-dz-insufficiency---primary.py
+inputModule4:
+  class: File
+  path: python/rheumatic-valve-dz-incompetence---primary.py
+inputModule5:
+  class: File
+  path: python/rheumatic-valve-dz-regurgitation---primary.py
+inputModule6:
+  class: File
+  path: python/aortic-rheumatic-valve-dz---primary.py
+inputModule7:
+  class: File
+  path: python/rheumatic-valve-dz-tricuspid---primary.py
+inputModule8:
+  class: File
+  path: python/pulmonary-rheumatic-valve-dz---primary.py
+inputModule9:
+  class: File
+  path: python/rheumatic-valve-dz-stenosis---primary.py
+inputModule10:
+  class: File
+  path: python/rheumatic-valve-dz---primary.py
+inputModule11:
+  class: File
+  path: python/rheumatic-valve-dz---secondary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
